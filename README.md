@@ -1,6 +1,6 @@
 Check out Frontend integration of this project here: https://bd-3-assignment.vercel.app/
 
-Next Step: Add this Link in dialog Server url box on Vercel: https://trip-with-us-hotel-chain-blond.vercel.app/
+Next Step: Add this Link in dialog Server url box on Vercel: https://backend-shopping-cart-operations.vercel.app/
 
 Shopping Cart Operations::
 
